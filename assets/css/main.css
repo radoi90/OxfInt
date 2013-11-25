@@ -8,6 +8,10 @@ body {
 	font-family:'Open Sans',sans-serif;
 }
 
+textarea{
+	width=1000px
+}
+
 a, a:visited{color:#d54872;
 	
 	-webkit-transition:all .1s linear;
